@@ -94,3 +94,32 @@
 //
 //    var el = document.getElementById("idname");
 //    el.textContent = colors[0];
+
+
+// 7 accessing and changing values in an array
+
+//    var colors = ['white','black','blue'];
+//    // updating the third color
+//    colors[2] = 'purple';
+//
+//    var el = document.getElementById("idname");
+//    el.textContent = colors[2];
+
+
+// 8 using arithmetic operations
+
+//    var subtotal = 3(2*(4-1));
+//    var shipping = 3 * 0.5(42-20);
+//
+//    var total = subtotal + shipping;
+//
+//    // the three id names are random
+//    var elsubtotal = document.getElementById("subtotal");
+//    elsubtotal.textContent = subtotal;
+//
+//    var elshipping = document.getElementById("shipping");
+//    elshipping.textContent = shipping;
+//
+//    var eltotal = document.getElementById("total");
+//    eltotal.textContent = total;
+    
