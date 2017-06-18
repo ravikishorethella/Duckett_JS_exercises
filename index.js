@@ -298,3 +298,12 @@
 //
 //    var el = document.getElementById("idname");
 //    el.innerHTML = msg;
+
+
+// 20 create a date object
+
+//    var today = new Date();
+//    var year = today.getFullYear();
+//
+//    var el = document.getElementById("footer");
+//    el.innerHTML= '<p>&copy; ' + year +' </p>';
