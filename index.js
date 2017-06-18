@@ -48,3 +48,33 @@
 //
 //    var elnote = document.getElementById("note");
 //    elnote.textContent = message;
+
+
+// 4 using a variable to store a Boolean
+
+//    var stocks;
+//    var result;
+//
+//    stocks = true;
+//    results = false;
+//
+//    var el = document.getElementById("idname");
+//    el.className = stocks;
+
+
+// 5 changing the value of a variable 
+
+//    var stocks;
+//    var result;
+//
+//    stocks = true;
+//    results = false;
+//
+////    some modifications will be done and the values of the stocks and results will be changed.   
+//
+//    stocks = false;
+//    results = true;
+//
+//    var el = document.getElementById("idname");
+//    el.className = stocks;
+
