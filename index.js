@@ -213,3 +213,14 @@
 //
 //    var elfreerooms = document.getElementById("idname");
 //    elfreerooms.textContent = hotel.checkavailability();
+
+
+// 15 creating an object: constructor notation
+
+//    var hotel = new Object();
+//        hotel.name = 'clinton',
+//        hotel.rooms = 50,
+//        hotel.booked = 21,
+//        hotel.checkAvailability = function(){
+//        return this.rooms - this.booked;  
+//    };
