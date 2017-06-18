@@ -168,3 +168,28 @@
 //
 //    var areaonesize = getsize(3,2,3)[0];
 //    var volumeonesize = getsize(3,2,5)[1];
+
+
+// 13.1 named functions 
+
+//    function area(width, height){
+//        return width * height;
+//    } 
+//    var size = area(3,5); 
+
+
+// 13.2 anonymous functions
+
+//    var area = function(height, width){
+//        return height * width;
+//    }
+//    var size = area(4,6);
+
+
+// 13.3 immediately invoked functions
+
+//    var area = (function(){
+//        var height = 5;
+//        var width = 4;
+//        return height * width;
+//    }());
