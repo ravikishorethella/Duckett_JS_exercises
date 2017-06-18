@@ -275,3 +275,15 @@
 //
 //    var elgym = document.getElementById("idname");
 //    elgym.className = hotel.gym; 
+
+
+// 18 Browser object model
+
+//    var msg = '<h2> Browser window <h2><p>width: '+ window.innerWidth + '</p>';
+//    msg += '<p>height:'+ window.innerHeight +'</p>'; 
+//    msg += '<h2>history</h2><p>items: '+ window.history.length + '</p>';
+//    msg += '<h2>Screen</h2><p>width: '+ window.screen.width + '</p>';
+//    msg += '<p>height: '+ window.screen.height + '</p>';
+//
+//    var el = document.getElementById("idname");
+//    el.innerHTML = msg;
