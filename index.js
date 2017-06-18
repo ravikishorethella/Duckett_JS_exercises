@@ -224,3 +224,54 @@
 //        hotel.checkAvailability = function(){
 //        return this.rooms - this.booked;  
 //    };
+
+
+// 16 creating many objects: constructor notation
+
+//    function Hotel(name, rooms, booked){
+//        this.name = name;
+//        this.rooms = rooms;
+//        this.booked = booked;
+//        this.checkavailability = function(){
+//            return this.rooms - this.booked; 
+//        };
+//    }
+//
+//    var quayHotel = new Hotel('Quay',40,25);
+//    var parkHotel = new Hotel('Park',90,45);
+//
+//    var details1 = quayHotel.name + ' rooms: ';
+//    details1 += quayHotel.checkavailability();
+//    // hotel1
+//    var elhotel1 = document.getElementById("idname");
+//    elhotel1.textContent = details1;
+//
+//    var details2 = parkHotel.name + ' rooms: ';
+//    details2 += parkHotel.checkavailability();
+//    // hotel1
+//    var elhotel2 = document.getElementById("idname");
+//    elhotel2.textContent = details2;
+
+
+// 17 adding and removing properties
+
+//    var hotel = {
+//        name: 'park',
+//        rooms: 53,
+//        booked: 21
+//    };
+//    // adding the properties
+//        hotel.gym = true;
+//        hotel.pool = false;
+//
+//    // deleting the properties
+//        delete hotel.booked; 
+//
+//    var elname = document.getElementById("idname");
+//    elname.textContent = hotel.name;
+//
+//    var elpool = document.getElementById("idname");
+//    elpool.className = hotel.pool;
+//
+//    var elgym = document.getElementById("idname");
+//    elgym.className = hotel.gym; 
