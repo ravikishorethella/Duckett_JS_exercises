@@ -122,4 +122,49 @@
 //
 //    var eltotal = document.getElementById("total");
 //    eltotal.textContent = total;
+
+
+// 9 using string operators
+
+//    var name = 'ravi';
+//    var greeting = 'welcome';
+//    var message = name + greeting + '!!';
+//
+//    var el = document.getElementById("idname");
+//    el.textContent = message;
     
+
+// chapter 3
+
+// 10 a basic function
+
+//    var msg = 'hello welcome';
+//    function message(){
+//        var el = document.getElementById("idname");
+//        el.textContent = msg;
+//    }
+//    message();
+
+
+// 11 getting a single value out of a function
+
+//    function calculateArea(height, width){
+//        var area = height * width;
+//        return area;
+//    }
+//
+//    var wallone = calculateArea(5,3);
+//    var walltwo = calculateArea(4,6);
+
+
+// 12 getting multiple values out of a function
+
+//    function getsize(height, width, depth){
+//        var area = height * width;
+//        var volume = height * width * depth;
+//        var sizes = [area, volume];
+//        return sizes;
+//    }
+//
+//    var areaonesize = getsize(3,2,3)[0];
+//    var volumeonesize = getsize(3,2,5)[1];
