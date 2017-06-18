@@ -193,3 +193,23 @@
 //        var width = 4;
 //        return height * width;
 //    }());
+
+
+// 14 object in literal notation
+
+//    var hotel = {
+//        name: 'clinton',
+//        rooms: 50,
+//        booked: 22,
+//        gym: true,
+//        roomtypes: ['twin', 'double', 'suite'],
+//        checkavailability: function() {
+//            this.rooms - this.booked;
+//        }  
+//    };
+//
+//    var elname = document.getElementById("idname");
+//    elname.textContent = hotel.name;
+//
+//    var elfreerooms = document.getElementById("idname");
+//    elfreerooms.textContent = hotel.checkavailability();
