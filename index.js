@@ -78,3 +78,19 @@
 //    var el = document.getElementById("idname");
 //    el.className = stocks;
 
+
+// 6.1 creating arrays in the literal notation
+ 
+//    var colors;
+//    colors = ['white','black','blue'];
+//
+//    var el = document.getElementById("idname");
+//    el.textContent = colors[0];
+
+
+// 6.2 creating arrays in the array constructor notation 
+ 
+//    var colors = new Array('white','black','blue');
+//
+//    var el = document.getElementById("idname");
+//    el.textContent = colors[0];
