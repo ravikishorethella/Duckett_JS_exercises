@@ -376,3 +376,17 @@
 // 	msg += scores[i] + '<br/>'; 	
 // }	
 // document.getElementById('answer').innerHTML = msg;
+
+
+// 26 using while loops
+
+// var i = 1;
+// var msg = '';
+// while(i<10){
+// 	msg += i + ' * 5 = ' + (i * 5) + ' <br/>';
+// 	i++;
+// }
+// document.getElementById('answer').innerHTML = msg;
+
+
+// 
