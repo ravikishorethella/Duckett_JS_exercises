@@ -307,3 +307,15 @@
 //
 //    var el = document.getElementById("footer");
 //    el.innerHTML= '<p>&copy; ' + year +' </p>';
+
+
+// 21 using comparison operators
+
+// var score = 57;
+// var pass = 87;
+// var hasPassed = score >= pass;
+// var el = document.getElementById('answer');
+// el.textContent = 'level passed:' + hasPassed;
+
+
+// 
