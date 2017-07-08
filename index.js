@@ -318,4 +318,13 @@
 // el.textContent = 'level passed:' + hasPassed;
 
 
-// 
+// 22 comparing two expressions
+
+// var score1 = 80;
+// var score2 = 90;
+// var highScore1 = 70;
+// var highScore2 = 95;
+// var comparison = (score1+score2) > (highScore1+highScore2);
+// var el = document.getElementById('answer');
+// el.textContent = 'new high score:' + comparison;
+
