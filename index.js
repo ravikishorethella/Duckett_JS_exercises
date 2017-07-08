@@ -341,3 +341,28 @@
 // } 	
 // var el = document.getElementById('answer');
 // el.textContent = msg;
+
+
+// 24 using switch statements
+
+// var msg;
+// var level = 3;
+// switch(value){
+// case 1:
+// 	msg = 'this is level 1';
+// 	break;
+// case 2:
+// 	msg = 'this is level 2';
+// 	break;
+// case 3:
+// 	msg = 'this is level 3';
+// 	break;
+// default:
+// 	msg = 'Good Luck';
+// 	break;	
+// }
+// var el = document.getElementById('answer');
+// el.textContent = msg;
+
+
+// 25
