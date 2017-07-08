@@ -389,4 +389,12 @@
 // document.getElementById('answer').innerHTML = msg;
 
 
-// 
+// 27 using do-while loops
+
+// var i = 1;
+// var msg = '';
+// do {
+// 	msg += i + ' * 5 = ' + (i * 5) + ' <br/>';
+// 	i++;
+// } while(i<1);
+// document.getElementById('answer').innerHTML = msg;
