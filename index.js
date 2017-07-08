@@ -365,4 +365,14 @@
 // el.textContent = msg;
 
 
-// 25
+// 25 using for loops
+
+// var scores = [27, 25, 28, 26];
+// var roundNumber = 0;
+// var msg;
+// for(var i=0; i<scores.length; i++){
+// 	roundNumber = i+1;
+// 	msg += 'Round ' + roundNumber + ':';
+// 	msg += scores[i] + '<br/>'; 	
+// }	
+// document.getElementById('answer').innerHTML = msg;
