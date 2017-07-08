@@ -328,3 +328,16 @@
 // var el = document.getElementById('answer');
 // el.textContent = 'new high score:' + comparison;
 
+
+// 23 using if-else statements
+
+// var score = 75;
+// var pass = 50;
+// var msg;
+// if(score>=pass){
+//	msg = 'congrstulations';
+// }else{
+//  msg = 'try again';
+// } 	
+// var el = document.getElementById('answer');
+// el.textContent = msg;
