@@ -309,6 +309,8 @@
 //    el.innerHTML= '<p>&copy; ' + year +' </p>';
 
 
+// Decision and loops
+
 // 21 using comparison operators
 
 // var score = 57;
@@ -398,3 +400,8 @@
 // 	i++;
 // } while(i<1);
 // document.getElementById('answer').innerHTML = msg;
+
+
+// Document Object Model
+
+ 
